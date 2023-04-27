@@ -1,0 +1,107 @@
+h1, h2 {
+  font-family: Lato;
+}
+h1 {
+  font-family: Lato;
+}
+.logo{
+  float : right;
+}
+h1{
+  
+  background-color: rgb(165, 164, 168);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 2px solid black;
+
+}
+body{
+  margin: 0px;
+  margin-top: 0px;
+  
+}
+nav{
+
+
+  background-color: rgb(3, 3, 3);
+ 
+
+}
+.nav1{
+  position:sticky;
+  top:62px;
+  border: 2px solid black;
+  border-top: 0px;
+  border-bottom: 0px;
+  
+}
+nav a{
+  color: white;
+padding: 20px;
+
+
+}
+main {
+
+  background-color: rgb(227, 223, 231);
+  border: 2px solid rgb(5, 5, 5);
+  font-size: 1.2em;
+  padding: 1em;
+}
+main div {
+  
+  display: inline-block;
+  margin-bottom: 20px;
+  width: 45%;
+  margin-left: 1em;
+}
+.userForm{
+  background-color: rgb(248, 246, 244);
+  border: 2px solid rgb(247, 241, 241);
+  border-top: 0px;
+  padding: 20px;
+  font-size: 1.2em;
+}
+input[type='text'] {
+  border: 1px solid black;
+  border-radius: 20px;
+  box-shadow: 5px 5px 0px 0px grey;
+  width: 90%;
+  padding: 15px;
+  margin: 20px;
+}
+.submit-btn {
+  
+  padding: 10px 10px 3px 10px;
+  font-size: 1.2em;
+  border: 1px solid rgb(7, 7, 7);
+  border-radius: 10px;
+  color: white;
+  box-shadow: 5px 5px 0px 0px rgb(39, 36, 36);
+  background-color: rgb(91, 90, 94);
+  
+}
+.button{
+  text-align: right;
+}
+.credits{
+  float:right
+}
+footer{
+  background-color: rgb(165, 164, 168);
+  padding: 20px 10px 20px 10px;
+  position: sticky;
+  bottom: 0px;
+  border: 2px solid black;;
+
+}
+header{
+  position: sticky;
+  top: 0px
+}
+.help{
+  float : left;
+  padding : 15px;
+}
